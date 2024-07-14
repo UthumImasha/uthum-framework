@@ -1,0 +1,18 @@
+{
+    "name": "uthum-imasha/php-framework",
+    "description": "Simple php framework by uthum imasha.",
+    "type": "project",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "UthumImasha\\PhpFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Uthum Imasha",
+            "email": "imashauthum@gmail.com"
+        }
+    ],
+    "require": {}
+}
